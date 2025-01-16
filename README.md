@@ -12,11 +12,6 @@
 
 ---
 
-## 🎯 What Drives Me  
-Building systems that not only work but thrive in the real world. Whether it’s optimizing enterprise workflows or creating smart city solutions, I love solving challenges that make a difference.  
-
----
-
 ## 📚 Currently Learning  
 - Advanced algorithms and scalable system design.  
 - Fine-tuning cloud-native applications with cutting-edge tools.  
